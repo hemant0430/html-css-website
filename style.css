@@ -41,10 +41,7 @@ max-height: 97.50vh;
 display: flex;
 flex:1;
 }
-.title-div-3{
 
-  
-}
 .title-div-4{
   display: flex;
   flex-direction: column;
@@ -86,8 +83,7 @@ flex:1;
   background-image: url(./assets/images/bgi1.png);
   background-repeat: no-repeat;
   background-size:cover;
-  height:120;
-  
+  height:120vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -101,7 +97,7 @@ flex:1;
   
   padding: 0;
   margin: 0;
-  ;
+  
 }
 .feature-div-3{
   
@@ -166,21 +162,7 @@ flex:1;
   height:100vh;
   
 }
-.hero-div-1{
- 
-}
-.hero-div-2{
-  
 
-}
-.hero-div-3{
-  
-  
-}
-.hero-div-4{
-  
-
-}
 
 @media screen and (max-width:767px) {
   #hero{
